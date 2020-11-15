@@ -1,5 +1,5 @@
 <p align="center">
-   <img src=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Images/Project%201%20Banner.png>
+   <img src=https://github.com/yeagercmbpd/Identifying_Victim_Clusters_In_Baltimore_CIty_Police_Data/blob/main/patch.png>
 <div align="center">
    <figcaption></figcaption>
 </div>
@@ -16,7 +16,7 @@ The purpose of this analysis is to attempt to detect hidden groupings within cri
 ---
 ### Repository Navigation
 <pre>
-Technical Notebook: <a href=https://github.com/yeagercmbpd/Identifying-Serious-Cases-of-Colic-in-Equines/blob/main/Technical%20Notebook-FinalRevamp.ipynb>Technical Notebook/Report</a>
+Technical Notebook: <a href=https://github.com/yeagercmbpd/Identifying_Victim_Clusters_In_Baltimore_CIty_Police_Data/blob/main/Detecting%20Victim%20Groupings%20in%20Baltimore%20Crime%20Data.ipynb>Technical Notebook/Report</a>
 
 </pre>
 ---
